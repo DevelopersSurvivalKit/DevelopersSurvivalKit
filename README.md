@@ -1,9 +1,12 @@
 <div align="center">
-<h1>Hi!</h1>
-<p>Here contains several resources that may be in need for anyone whos want to adventure in a new topic or simply learn  
-Feel free to add an resource that helped you and may help others!</p>
-</div>
+<h1>Awesome Resources For Devs! :sparkles:</h1>
 
+<!-- Awesome Dev's survival kit -->
+<!-- Developers Survival Kit -->
+
+<p>Here contains several resources that may be in need for anyone whos want to adventure in a new topic or simply learn  
+Feel free to add any resource that helped you and may help others!</p>
+</div>
 
 ## Programming languages
 #### C
@@ -24,12 +27,12 @@ Feel free to add an resource that helped you and may help others!</p>
 #### Ruby
 `TODO`
 
-### Suporte geral
-- cht.sh/
-- https://www.geeksforgeeks.org/
-- learnxinyminutes.com/
+### Emergency kit
+- [Cht.sh](https://cht.sh/) - has quick tutorials about most tools, great for references
+- (Geek for Geeks)[https://www.geeksforgeeks.org/] - Has several content about theorical stuff
+- [Learn X in Y minutes](https://learnxinyminutes.com/) - Decided to create a script with `x` but knows nothing about `x`? this may help you
 
-### Essencial
+### Computer Science
 - [Geeks for Geeks::DSA- Data structures and algorithms](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm)
 - [Geeks for Geeks::Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm)
 - [Geeks for Geeks::Fundamentals of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
