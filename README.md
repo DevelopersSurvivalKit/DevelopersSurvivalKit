@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Awesome Resources For Devs! :sparkles:</h1>
+<h1> Developers Survival Kit :hammer_and_pick:</h1>
 
 <!-- Awesome Dev's survival kit -->
 <!-- Developers Survival Kit -->
