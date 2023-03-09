@@ -1,27 +1,33 @@
-# Hi!
+<div align="center">
+<h1>Hi!</h1>
+<p>Here contains several resources that may be in need for anyone whos want to adventure in a new topic or simply learn  
+Feel free to add an resource that helped you and may help others!</p>
+</div>
 
-### C
+
+## Programming languages
+#### C
 `TODO`
 ...
-### C++
+#### C++
 `TODO`
 ...
-### Java
+#### Java
 `TODO`
 ...
-### Rust
+#### Rust
 `TODO`
 ...
-### Python
+#### Python
 `TODO`
 ...
-### Ruby
+#### Ruby
 `TODO`
 
 ### Suporte geral
-cht.sh/
-https://www.geeksforgeeks.org/
-learnxinyminutes.com/
+- cht.sh/
+- https://www.geeksforgeeks.org/
+- learnxinyminutes.com/
 
 ### Essencial
 - [Geeks for Geeks::DSA- Data structures and algorithms](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm)
@@ -30,6 +36,24 @@ learnxinyminutes.com/
 
 https://ruby-doc.org/3.2.1/
 
+## Linux ?
+### Core Utils
+#### Regex
+...
+### Ricing
+#### Eww
+- https://dharmx.is-a.dev/eww-powermenu/
+- https://elkowar.github.io/eww/
+...
+
+## IDEs ?
+#### Emacs
+#### Intellij
+#### Neovim
+#### Vim
+#### VsCode
+
+## Messy list of resources
 - https://www.linode.com/docs/guides/tools-reference/basics/
 - https://github.com/sirredbeard/Awesome-UNIX
 - https://www.educative.io/courses/learn-rust-from-scratch/7XONGN9YqBy
